@@ -6,8 +6,8 @@
     <h1 class="title">Bienvenue sur le site officiel des Brakasssss'</h1>
     <h2 class="subtitle">
       Le site est encore en construction, nous vous invitons à revenir plus
-      tard. Ne retenez pas votre respiration le temps que ça arrive, ça
-      risquerait de vous être fatal.
+      tard. Ne retenez pas votre respiration en attendant, ça risquerait de vous
+      être fatal.
     </h2>
   </div>
 </template>
