@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/static/svg/logo.svg"  alt="Logo - Les Brakasssss'">
+    <img src="/static/svg/logo.svg"  alt="Logo - Les Brakasssss'" width="256px" heigth="256px">
     <h1 align = "center">Les Brakasssss' - Site officiel</h1>
 </div>
 
