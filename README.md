@@ -1,4 +1,7 @@
-# Les Brakasssss' - Site officiel
+<div align="center">
+    <img src="/static/svg/logo.svg"  alt="Logo - Les Brakasssss'">
+    <h1 align = "center">Les Brakasssss' - Site officiel</h1>
+</div>
 
 Bienvenue sur le repositoire de code du site officiel des Brakasssss'.
 

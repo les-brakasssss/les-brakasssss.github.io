@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="dessin-1.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512"
+   inkscape:export-filename="C:\Users\Michel\source\Projects\Brakass' Softworks\dessin-1.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <svg:g
+     id="g1065"
+     transform="rotate(-15,631.42858,2485.1042)"
+     style="filter:url(#filter1077)">
+    <svg:circle
+       transform="scale(-1)"
+       r="204.8"
+       cy="-234.78682"
+       cx="-845.72705"
+       id="path902-7"
+       style="fill:#11767f;fill-opacity:1;stroke:none;stroke-width:6.52689457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <svg:circle
+       transform="rotate(135)"
+       r="163.84"
+       cy="-764.0387"
+       cx="-407.04001"
+       id="path902-9-9"
+       style="fill:#005373;fill-opacity:1;stroke:none;stroke-width:5.22151566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <svg:circle
+       transform="rotate(90)"
+       r="104.85759"
+       cy="-792.02765"
+       cx="288.48621"
+       id="path902-9-0-9"
+       style="fill:#102e58;fill-opacity:1;stroke:none;stroke-width:3.34177017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+  </svg:g>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     inkscape:showpageshadow="false"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="g888"
+     inkscape:document-units="px"
+     inkscape:cy="252.39558"
+     inkscape:cx="247.33229"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <svg:defs
+     id="defs2">
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2176">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2166" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2168" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur2170" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset2172" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2174" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2188">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2178" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2180" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur2182" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset2184" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2186" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2200">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2190" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2192" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur2194" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset2196" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2198" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2176-0">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2166-8" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2168-8" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur2170-3" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset2172-7" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2174-7" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3020">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3010" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3012" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur3014" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset3016" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3018" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3032">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3022" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3024" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur3026" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset3028" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3030" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3044">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3034" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3036" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur3038" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset3040" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3042" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter882">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood872" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite874" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur876" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset878" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite880" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter900">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood890" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite892" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur894" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset896" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite898" />
+    </svg:filter>
+    <svg:filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1077">
+      <svg:feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1067" />
+      <svg:feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1069" />
+      <svg:feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur1071" />
+      <svg:feOffset
+         dx="1.38778e-016"
+         dy="2.77556e-017"
+         result="offset"
+         id="feOffset1073" />
+      <svg:feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1075" />
+    </svg:filter>
+  </svg:defs>
+  <svg />
+  <svg:g
+     id="g888"
+     style="filter:url(#filter900)">
+    <svg:path
+       transform="matrix(-0.75,0,0,0.75,251.13425,67.125627)"
+       style="fill:#ba293d;fill-opacity:1;stroke:none;stroke-width:10.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -52.369294,170.32514 -82.024406,66.93944 80.805445,74.22541 61.6534893,-11.01318 6.8920607,42.54891 61.80713,44.7973 17.673112,-17.67311 -45.807123,-44.79731 2.44127,-68.54891 -71.653487,3.67985 z"
+       id="rect1382"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <svg:path
+       style="fill:#ba293d;fill-opacity:1;stroke:none;stroke-width:5.22114992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 358.77533,38.553899 a 20.884601,20.884601 0 0 0 -13.56278,8.975831 l -46.20481,69.59795 -27.29811,41.11666 -14.52862,3.25457 c -11.28991,2.53064 -18.62699,13.26482 -16.3363,24.60589 l 8.26959,40.9422 c 2.29069,11.34104 21.70278,21.67786 21.70278,21.67786 30.99068,20.57523 44.43049,30.95086 69.46394,32.78211 29.78714,1.86374 58.3066,-12.30628 74.81425,-37.17075 l 23.10274,-34.79755 37.54402,-56.54528 a 20.884601,20.884601 0 0 0 -5.84741,-28.95015 20.884601,20.884601 0 0 0 -28.95016,5.84741 l -37.54401,56.54527 a 20.884601,20.884601 0 0 0 -5.84741,-28.95016 20.884601,20.884601 0 0 0 -28.95017,5.84741 20.884601,20.884601 0 0 0 -5.8474,-28.95015 20.884601,20.884601 0 0 0 -28.95016,5.84741 l 46.20481,-69.597955 a 20.884601,20.884601 0 0 0 -5.84741,-28.950159 20.884601,20.884601 0 0 0 -15.38738,-3.128417 z"
+       id="path815-0"
+       inkscape:connector-curvature="0" />
+  </svg:g>
+  <svg:metadata
+     id="metadata1442">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="rect2514-7-2"
+     d="M 460.97244,341.81345 61.593397,345.93285 64.742063,469.2908 464.12266,435.14544 Z"
+     style="fill:#ffc233;fill-opacity:1;stroke:none;stroke-width:9.65743637;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter3020)"
+     transform="matrix(-0.99202455,0.1260448,0.1260448,0.99202455,472.50192,-29.897427)" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.36336517px;line-height:1.31569064px;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';letter-spacing:0px;word-spacing:0px;fill:#418b80;fill-opacity:1;stroke:none;stroke-width:1.05255258"
+     x="42.164501"
+     y="411.94479"
+     id="text888"
+     transform="matrix(0.9338345,-0.04101529,0.08798587,1.0669891,0,0)"><svg:tspan
+       sodipodi:role="line"
+       id="tspan886"
+       x="42.164501"
+       y="411.94479"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';fill:#418b80;fill-opacity:1;stroke-width:1.05255258">Brakasssss'</svg:tspan></svg:text>
+  <svg:path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="rect2514-7"
+     d="m 99.998298,306.0127 128.964102,-0.97272 6.78553,62.87024 -134.78639,17.38815 z"
+     style="fill:#418b80;fill-opacity:1;stroke:none;stroke-width:4.61568165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter3032)"
+     transform="matrix(0.69875089,0.06863362,-0.06386244,0.84203093,53.327499,45.020877)" />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.34805679px;line-height:0.86617297px;font-family:'Dressed Book';-inkscape-font-specification:'Dressed Book, ';letter-spacing:0px;word-spacing:0px;fill:#ffc233;fill-opacity:1;stroke:none;stroke-width:0.69293839;"
+     x="168.11406"
+     y="334.76953"
+     id="text880"
+     transform="matrix(0.96716613,0.07857108,-0.1657457,1.0204836,0,0)"><svg:tspan
+       sodipodi:role="line"
+       x="168.11406"
+       y="334.76953"
+       id="tspan882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';fill:#ffc233;fill-opacity:1;stroke-width:0.69293839;">Les</svg:tspan></svg:text>
+</svg:svg>
