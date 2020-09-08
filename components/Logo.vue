@@ -6,7 +6,7 @@
     height="512"
     width="512"
   >
-    <defs id="defs2">
+    <defs>
       <filter id="filter2176" style="color-interpolation-filters: sRGB">
         <feFlood
           id="feFlood2166"
@@ -407,59 +407,14 @@
         transform="matrix(0.9338345,-0.04101529,0.08798587,1.0669891,0,0)"
         y="411.94479"
         x="42.164501"
-        style="
-          font-style: normal;
-          font-variant: normal;
-          font-weight: normal;
-          font-stretch: normal;
-          font-size: 67.36336517px;
-          line-height: 1.31569064px;
-          font-family: 'Fontdiner Swanky';
-          -inkscape-font-specification: 'Fontdiner Swanky';
-          letter-spacing: 0px;
-          word-spacing: 0px;
-          fill: #418b80;
-          fill-opacity: 1;
-          stroke: none;
-          stroke-width: 1.05255258;
-        "
-        xml:space="preserve"
+        space="preserve"
       >
-        <tspan
-          id="tspan886"
-          style="
-            font-style: normal;
-            font-variant: normal;
-            font-weight: normal;
-            font-stretch: normal;
-            font-family: 'Fontdiner Swanky';
-            -inkscape-font-specification: 'Fontdiner Swanky';
-            fill: #418b80;
-            fill-opacity: 1;
-            stroke-width: 1.05255258;
-          "
-          y="411.94479"
-          x="42.164501"
-        >
-          Brakasssss'
-        </tspan>
+        <tspan id="tspan886" y="411.94479" x="42.164501">Brakasssss'</tspan>
       </text>
       <path
         id="rect2514-7"
         transform="matrix(0.69875089,0.06863362,-0.06386244,0.84203093,53.327499,45.020877)"
-        style="
-          fill: #418b80;
-          fill-opacity: 1;
-          stroke: none;
-          stroke-width: 4.61568165;
-          stroke-linecap: round;
-          stroke-linejoin: round;
-          stroke-miterlimit: 4;
-          stroke-dasharray: none;
-          stroke-opacity: 1;
-          paint-order: markers stroke fill;
-          filter: url(#filter3032);
-        "
+        style="fill: #418b80; fill-opacity: 1"
         d="m 99.998298,306.0127 128.964102,-0.97272 6.78553,62.87024 -134.78639,17.38815 z"
       />
       <text
@@ -467,45 +422,31 @@
         transform="matrix(0.96716613,0.07857108,-0.1657457,1.0204836,0,0)"
         y="334.76953"
         x="168.11406"
-        style="
-          font-style: normal;
-          font-variant: normal;
-          font-weight: normal;
-          font-stretch: normal;
-          font-size: 44.34805679px;
-          line-height: 0.86617297px;
-          font-family: 'Dressed Book';
-          -inkscape-font-specification: 'Dressed Book, ';
-          letter-spacing: 0px;
-          word-spacing: 0px;
-          fill: #ffc233;
-          fill-opacity: 1;
-          stroke: none;
-          stroke-width: 0.69293839;
-        "
-        xml:space="preserve"
+        space="preserve"
       >
-        <tspan
-          id="tspan882"
-          style="
-            font-style: normal;
-            font-variant: normal;
-            font-weight: normal;
-            font-stretch: normal;
-            font-family: 'Fontdiner Swanky';
-            -inkscape-font-specification: 'Fontdiner Swanky';
-            fill: #ffc233;
-            fill-opacity: 1;
-            stroke-width: 0.69293839;
-          "
-          y="334.76953"
-          x="168.11406"
-        >
-          Les
-        </tspan>
+        <tspan id="tspan882" y="334.76953" x="168.11406">Les</tspan>
       </text>
     </g>
   </svg>
 </template>
 
-<style></style>
+<style>
+tspan {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-family: 'Fontdiner Swanky';
+  fill-opacity: 1;
+}
+
+#tspan886 {
+  font-size: 67.36336517px;
+  fill: #418b80;
+}
+
+#tspan882 {
+  font-size: 44.34805679px;
+  fill: #ffc233;
+}
+</style>
