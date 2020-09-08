@@ -29,10 +29,30 @@ export default {
     link: [
       { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'icon', type: 'image/png', href: '/favicon.png' },
-      { rel: 'icon', type: 'image/png', href: '/favicon-32.png', sizes: '32x32' },
-      { rel: 'icon', type: 'image/png', href: '/favicon-64.png', sizes: '64x64' },
-      { rel: 'icon', type: 'image/png', href: '/favicon-96.png', sizes: '96x96' },
-      { rel: 'icon', type: 'image/png', href: '/favicon-196.png', sizes: '196x196' }
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: '/favicon-32.png',
+        sizes: '32x32',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: '/favicon-64.png',
+        sizes: '64x64',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: '/favicon-96.png',
+        sizes: '96x96',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: '/favicon-196.png',
+        sizes: '196x196',
+      },
     ],
   },
   /*

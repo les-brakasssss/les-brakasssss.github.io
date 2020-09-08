@@ -1,6 +1,6 @@
 <div align="center">
     <img src="/static/svg/logo.svg"  alt="Logo - Les Brakasssss'" width="256px" height="256px">
-    <h1 align = "center">Les Brakasssss' - Site officiel</h1>
+    <h1 align="center" style="margin-top: 0.5rem;">Les Brakasssss' - Site officiel</h1>
 </div>
 
 Bienvenue sur le repositoire de code du site officiel des Brakasssss'.
@@ -10,7 +10,7 @@ Le site est déployé depuis la branche 'master' uniquement.
 
 ## License
 
-Le projet est [sous license MIT](/LICENSE.md) pour le code uniquement. Le contenu étant spécifique, il n'est donc pas soumis à license.
+Le projet est sous [license MIT](/LICENSE.md) pour le code uniquement. Le contenu étant spécifique, il n'est donc pas soumis à license.
 
 ## Pour bien démarrer
 
