@@ -23,8 +23,17 @@ export default {
         name: 'description',
         content: process.env.npm_package_description || '',
       },
+      { name: 'msapplication-TileImage', content: 'favicon-144.png' },
+      { name: 'msapplication-TileColor', content: '#FFFFFF' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/png', href: '/favicon.png' },
+      { rel: 'icon', type: 'image/png', href: '/favicon-32.png', sizes: '32x32' },
+      { rel: 'icon', type: 'image/png', href: '/favicon-64.png', sizes: '64x64' },
+      { rel: 'icon', type: 'image/png', href: '/favicon-96.png', sizes: '96x96' },
+      { rel: 'icon', type: 'image/png', href: '/favicon-196.png', sizes: '196x196' }
+    ],
   },
   /*
    ** Global CSS
