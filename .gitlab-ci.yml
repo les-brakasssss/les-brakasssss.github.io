@@ -1,0 +1,16 @@
+image: node:12.7.2
+
+pages:
+  script:
+    - npm i -g yarn
+    - yarn
+    - yarn generate
+  artifacts:
+    paths:
+      - dist
+  cache:
+    paths:
+      - node_modules
+    key: project
+  only:
+    - master
