@@ -4,9 +4,10 @@ pages:
   script:
     - yarn
     - yarn generate
+    - mv dist public
   artifacts:
     paths:
-      - dist
+      - public
   cache:
     paths:
       - node_modules
