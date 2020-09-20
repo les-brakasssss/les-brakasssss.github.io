@@ -1,6 +1,6 @@
 <div align="center">
     <img src="/static/svg/logo.svg"  alt="Logo - Les Brakasssss'" width="256px" height="256px">
-    <h1 align="center">Les Brakasssss' - Site officiel</h1>
+    <h1 align="center">Les Brakasssss' · Site officiel</h1>
 </div>
 
 Bienvenue sur le repositoire de code du site officiel des Brakasssss'.
