@@ -46,7 +46,7 @@ export default {
   // Global CSS
   css: ['vuesax/dist/vuesax.css'],
   // Plugins to load before mounting the App, https://nuxtjs.org/guide/plugins
-  plugins: ['@/plugins/vuesax'],
+  plugins: ['@/plugins/vuesax', '@/plugins/i18n'],
   // Auto import components, https://nuxtjs.org/api/configuration-components
   components: true,
   // Nuxt.js dev-modules

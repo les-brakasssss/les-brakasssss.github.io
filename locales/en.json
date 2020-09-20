@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "English",
+    "french": "Français"
+  },
+  "home": {
+    "title": "Welcome on the Brakasssss' official website",
+    "introduction": "The website is still under construction, please come back later. In the meantime don't hold your breath, it could prove to be fatal."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is meant to give you more informations."
+  }
+}

@@ -1,6 +1,6 @@
 # MIT License
 
-__Copyright (c) 2020 Brakasssss' Softworks__
+__Copyright (c) 2020 Les Brakasssss'__
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
