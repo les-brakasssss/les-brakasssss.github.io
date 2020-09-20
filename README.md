@@ -8,10 +8,6 @@ Bienvenue sur le repositoire de code du site officiel des Brakasssss'.
 Il s'agit (pour l'instant) d'un site vitrine généré à l'aide d'un générateur de site statique (NuxtJS).
 Le site est déployé sur GitHub Pages depuis la branche 'master' uniquement.
 
-## License
-
-Le projet est sous [license MIT](/LICENSE.md) pour le code uniquement. Le contenu étant spécifique, il n'est donc pas soumis à license.
-
 ## Pour bien démarrer
 
 - Cloner le projet dans le répertoire de votre choix
