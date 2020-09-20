@@ -1,27 +1,19 @@
 <template>
   <div class="container">
     <header class="content-logos">
-      <logo />
+      <img src="/svg/logo.svg" width="256px" height="256px" />
     </header>
-    <h1 class="title">Bienvenue sur le site officiel des Brakasssss'</h1>
-    <h2 class="subtitle">
-      Le site est encore en construction, nous vous invitons à revenir plus
-      tard. Ne retenez pas votre respiration en attendant, ça risquerait de vous
-      être fatal.
-    </h2>
+    <h1 class="title">{{ $t('home.title') }}</h1>
+    <h2 class="subtitle">{{ $t('home.subtitle') }}</h2>
   </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-
 export default {
-  components: {
-    Logo,
-  },
+  components: {},
   head() {
     return {
-      title: "Accueil · Les Brakasssss'",
+      title: `${this.$t('links.home')} · Les Brakasssss'`,
     }
   },
 }
